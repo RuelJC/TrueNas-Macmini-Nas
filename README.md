@@ -13,7 +13,7 @@
 ---
 
 ## 🧩 Overview
-This project documents and demostrates how I repurposed a 2012 Mac mini into a functional home network attatched storage using Linux and TrueNas Core. The goal was to build a reliable server for backups, personal files and additional at home projects. 
+This project documents and demonstrates how I repurposed a 2012 Mac mini into a functional home network attached storage using Linux and TrueNAS Core. The goal was to build a reliable server for backups, personal files and additional at home projects. 
 
 For detailed documentation and screenshots, see the project folder structure below.
 
