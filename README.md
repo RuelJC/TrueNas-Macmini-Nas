@@ -26,9 +26,7 @@ For detailed documentation and screenshots, see the project folder structure bel
 ├── 2_Installation/
 ├── 3_Configuration/
 ├── 4_Security/
-├── 5_Performance/
-├── 6_Remote_Access/
-└── 7_Final_Screens/
+└── 5_Final_Screen/
 ```
 
 ---
