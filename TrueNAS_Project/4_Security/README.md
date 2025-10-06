@@ -15,9 +15,3 @@
 
 5. Created an email alert system for storage behavior and status.
 <img width="2364" height="690" alt="image" src="https://github.com/user-attachments/assets/9198c2cd-8edd-4c9e-bdb6-f2dceb78e4ab" />
-
-
-2. Enabled SSH for remote access.
-
-4. Integrated WireGuard VPN for secure remote connections.
-
