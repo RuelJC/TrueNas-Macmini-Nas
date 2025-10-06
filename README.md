@@ -22,6 +22,7 @@ For detailed documentation and screenshots, see the project folder structure bel
 ## 🖼️ Screenshot Folder Structure
 ```
 /TrueNAS_Project/
+├── 0_Hardware_Used/
 ├── 1_Hardware_Setup/
 ├── 2_Installation/
 ├── 3_Configuration/
