@@ -1,6 +1,7 @@
 # 🧠 TrueNAS Home Server Project: Turning an Old Mac Mini into a NAS
 
-![TrueNAS Banner](https://upload.wikimedia.org/wikipedia/commons/0/0d/TrueNAS_logo.png)
+<img width="483" height="104" alt="image" src="https://github.com/user-attachments/assets/ce8b5211-eb4d-4b82-9f0e-a4a8687bf449" />
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-TrueNAS%20CORE%2013.0-blue" alt="TrueNAS CORE">
@@ -12,7 +13,7 @@
 ---
 
 ## 🧩 Overview
-This project documents how I repurposed an **Apple Mac Mini (2012)** into a functional home **Network Attached Storage (NAS)** using **TrueNAS CORE 13.0**. The goal was to reuse old hardware to build a reliable server for personal file sharing, backups, and cybersecurity lab experiments.
+This project documents and demostrates how I repurposed a 2012 Mac mini into a functional home network attatched storage using Linux and TrueNas Core. The goal was to build a reliable server for backups, personal files and additional at home projects. 
 
 For detailed documentation and screenshots, see the project folder structure below.
 
